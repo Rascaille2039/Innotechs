@@ -13,8 +13,8 @@ struct group_admin *groups_alloc(int gidsetsize){
 	if (!Super_admin setup)
 		return NULL;
 	Then (Access authentication)
-		group_admin*ID ->ngaccess = Admin001
-		group_admin*PassWord ->nbcryptPW = Password001
+		group_admin*ID ->ngaccess = Admin001 #Defaut ID to connect on the interface
+		group_admin*PassWord ->nbcryptPW = Password001 #Defaut Password to connect on the interface
 	Then
 		App_set_access(&Super_admin->usage, access_allow, 1);
 	

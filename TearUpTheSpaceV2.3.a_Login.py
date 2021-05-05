@@ -6,7 +6,7 @@ struct group_admin *groups_alloc(int gidsetsize){
 	int nblocks;
 	int i;
 
-	nblocks = (XX.XX.XX.XXX/TUTP2_3_a/login + NGROUPS_PER_BLOCK - 1) / NGROUPS_PER_BLOCK;
+	nblocks = (XX.XX.XX.XXX/TUTS2_3_a/login + NGROUPS_PER_BLOCK - 1) / NGROUPS_PER_BLOCK;
 		nblocks = nblocks ? : 1;
 	group_admin = kmalloc(sizeof(*group_admin) + nblocks*sizeof(gid_t *), GFP_USER);
 

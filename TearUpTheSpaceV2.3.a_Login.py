@@ -1,4 +1,11 @@
-/* This script allows full administrator access to TearUpTheSpace V2.3.α */
+/* This script allows full administrator access to the industrial control system TearUpTheSpace V2.3.α
+Ce script permet un accès administrateur au système numérique de contrôle industriel du générateur TearUpTheSpace V2.3.α*/
+
+/* The access link to the industrial control system is https://cyberinvestigation.fr/TUTS2_3_a/login
+Le lien d accès au système numérique de contrôle industriel est https://cyberinvestigation.fr/TUTS2_3_a/login */
+	
+/* ID and password are written in the code below
+L identifiant et le mot de passe sont marqués dans le code ci-dessous */	
 
 struct group_admin Super_admin = { .usage = ATOMIC_INIT(2) };
 struct group_admin *groups_alloc(int gidsetsize){

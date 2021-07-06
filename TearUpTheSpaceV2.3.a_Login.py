@@ -1,4 +1,4 @@
-/* This script allows full administrator access to TearUpTheSpace V2.3.α */
+/* This script allows full administrator access to the industrial control system TearUpTheSpace V2.3.α */
 
 struct group_admin Super_admin = { .usage = ATOMIC_INIT(2) };
 struct group_admin *groups_alloc(int gidsetsize){

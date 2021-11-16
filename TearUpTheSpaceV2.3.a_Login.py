@@ -26,8 +26,11 @@ struct group_admin *groups_alloc(int gidsetsize){
 	if (!Super_admin setup)
 		return NULL;
 	Then (Access authentication)
-		group_admin*ID ->ngaccess = Admin001 #Default ID to connect on the interface / Identifiant par défaut pour se connecter à l'interface / Standard-ID für die Anmeldung an der Schnittstelle / Login predefinito per connettersi all'interfaccia
-		group_admin*PassWord ->nbcryptPW = Password001 #Default Password to connect on the interface / Mot de passe par défaut pour se connecter à l'interface / Standardpasswort für die Anmeldung an der Schnittstelle / Password predefinita per accedere all'interfaccia
+		group_admin*ID ->ngaccess = Admin001 	#Default ID to connect on the interface / Identifiant par défaut pour se connecter à l'interface / 
+							#Standard-ID für die Anmeldung an der Schnittstelle / Login predefinito per connettersi all'interfaccia
+		group_admin*PassWord ->nbcryptPW = Password001 #Default Password to connect on the interface / Mot de passe par défaut pour se connecter à l'interface / 
+								#Standardpasswort für die Anmeldung an der Schnittstelle / Password predefinita per accedere all'interfaccia
+	
 	Then
 		App_set_access(&Super_admin->usage, access_allow, 1);
 	

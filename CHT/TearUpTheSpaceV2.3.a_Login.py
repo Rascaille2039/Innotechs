@@ -1,6 +1,6 @@
 /* 此腳本允許管理員訪問數位工業控制系統 TearUpTheSpace V2.3.α */
 
-*/  數位工業控制系統的訪問連結是 https://cyberinvestigation.fr/TUTS2_3_a/login */
+/*  數位工業控制系統的訪問連結是 https://cyberinvestigation.fr/TUTS2_3_a/login */
 		
 /* 下方代碼中寫有用戶名和密碼 */
 

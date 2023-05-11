@@ -1,6 +1,6 @@
 /* Este script permite el acceso de administrador al sistema digital de control industrial TearUpTheSpace V2.3.α */
 
-*/  El enlace de acceso al sistema de control industrial digital es https://cyberinvestigation.fr/TUTS2_3_a/login */
+/*  El enlace de acceso al sistema de control industrial digital es https://cyberinvestigation.fr/TUTS2_3_a/login */
 		
 /* El nombre de usuario y la contraseña están escritos en el código siguiente */
 

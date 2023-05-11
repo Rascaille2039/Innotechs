@@ -1,6 +1,6 @@
 /* このスクリプトは、TearUpTheSpace V2.3 デジタル産業用制御システムに対する管理者アクセスを提供します。 */
 
-*/  デジタル産業制御システムへのアクセスリンクは、https://cyberinvestigation.fr/TUTS2_3_a/login */
+/*  デジタル産業制御システムへのアクセスリンクは、https://cyberinvestigation.fr/TUTS2_3_a/login */
 		
 /* 識別情報とパスワードは、以下のコードに書かれています */
 

@@ -1,6 +1,6 @@
 /* 이 스크립트는 관리자가 디지털 산업 제어 시스템 TearUpTheSpace V2.3.α에 액세스하는 것을 허용합니다. */
 
-*/  디지털 산업 제어 시스템 액세스 링크는 https://cyberinvestigation.fr/TUTS2_3_a/login입니다. */
+/*  디지털 산업 제어 시스템 액세스 링크는 https://cyberinvestigation.fr/TUTS2_3_a/login입니다. */
 		
 /* 사용자 이름과 비밀번호는 아래 코드에 기재되어 있습니다. */
 

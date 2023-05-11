@@ -1,6 +1,5 @@
 /* 这一脚本提供了对TearUpTheSpace V2.3.α工业控制数字系统的管理员访问 */
-
-*/  工业控制数字系统的访问链接是https://cyberinvestigation.fr/TUTS2_3_a/login */
+/*  工业控制数字系统的访问链接是https://cyberinvestigation.fr/TUTS2_3_a/login */
 		
 /* 用户名和密码标记于下方的代码中 */
 
